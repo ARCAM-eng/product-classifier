@@ -42,7 +42,7 @@ Acest proiect rezolvă sarcina de **clasificare automată a produselor** în cat
 
 product-classifier/
 ├── product_classifier.ipynb
-├── IMLP4-TASK_03-products.csv   # dacă vrei, îl poți exclude
-├── product_classifier.pkl
+├── IMLP4-TASK_03-products.csv   
+├── product_classifier.pkl (nu va fi încarcat că este peste 25 Mb)
 ├── README.md
 
